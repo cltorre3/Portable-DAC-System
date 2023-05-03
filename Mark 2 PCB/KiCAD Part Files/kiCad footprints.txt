@@ -1,0 +1,8 @@
+Footprints:
+
+ESP32:7805kicad:ESP32 Module
+LCD:Display:WC1602A
+CO2 Sensor:7805kicad:ESP32 Module
+HMDT Sensor:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal
+Potent. : Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical
+Battery: 2_1x02_P2.54mm_Horizontal
