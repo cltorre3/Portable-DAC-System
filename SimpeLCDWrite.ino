@@ -1,4 +1,4 @@
-// include the library code:
+// include the LCD library :
 #include <LiquidCrystal.h>
  
 // initialize the library with the numbers of the interface pins
@@ -8,7 +8,7 @@ void setup() {
   // set up the LCD's number of columns and rows:
   lcd.begin(16, 2);
   // Print a message to the LCD.
-  lcd.print("circuitschools.");
+  lcd.print("Test Write");
 }
  
 void loop() {
